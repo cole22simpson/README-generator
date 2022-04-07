@@ -1,7 +1,7 @@
 
   # Film Finder
 
-  ![Badge](https://img.shields.io/badge/License-MIT-red.svg)(https://opensource.org/licenses/MIT)
+  [![Badge](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
@@ -41,6 +41,7 @@
   ## Questions
 
   Message me on GitHub [here](github.com/cole22simpson)
+  <br>
   Email me at cole22simpson@gmail.com
 
 

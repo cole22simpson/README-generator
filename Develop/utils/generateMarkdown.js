@@ -1,6 +1,6 @@
 function renderLicenseBadge(license) {
   if (license !== "No license") {
-    return "![Badge](https://img.shields.io/badge/License-" + license + "-red.svg)(https://opensource.org/licenses/" + license + ")";
+    return "[![Badge](https://img.shields.io/badge/License-" + license + "-red.svg)](https://opensource.org/licenses/" + license + ")";
   }
   else {
     return "";
@@ -31,11 +31,11 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Credits](#credits)
-  -[Tests](#tests)
-  -[License](#license)
+  -[Installation](#installation)<br>
+  -[Usage](#usage)<br>
+  -[Credits](#credits)<br>
+  -[Tests](#tests)<br>
+  -[License](#license)<br>
   -[Questions](#questions)
 
   ## Installation
@@ -61,6 +61,7 @@ function generateMarkdown(data) {
   ## Questions
 
   Message me on GitHub [here](github.com/${data.github})
+  <br>
   Email me at ${data.email}
 
 
