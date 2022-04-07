@@ -20,6 +20,6 @@
 
   ## Questions
 
-  Message me on GitHub [here](github.com/cole22simpson)
+  Message me on GitHub [here](https://github.com/cole22simpson)
   <br>
   Email me at cole22simpson@gmail.com
