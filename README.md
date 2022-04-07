@@ -7,6 +7,7 @@
   This project was created to help the user create high quality, professional README's without having to type out all the annoying syntax. It is so quick and easy!
   
   URL to wtach the demonstration: https://drive.google.com/file/d/18XH0IzJn38P_LWz7ZvfDcPwI469by8Vy/view
+  The quality on the recording is not that good, so reach out if I need to redo it.
 
   ## Installation
 
