@@ -6,13 +6,6 @@
 
   This project was created to help the user create high quality, professional README's without having to type out all the annoying syntax. It is so quick and easy!
 
-  ## Table of Contents
-
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Questions](#questions)
-
   ## Installation
 
   You will need to have Node.js installed. After that, you must clone this repository. Open a terminal, navigate to the correct directory, then run the application with "node index".
